@@ -1,0 +1,72 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# uv-specific
+.uv/
+.venv/
+.cache/
+.uv.toml.d/
+uv.lock
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.cursor/
+
+# Project-specific
+results/
+log/
+logs/
+*.log
+mlruns/
+runs/
+checkpoints/
+*.pkl
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.csv
+*.json
+*.db
+*.sqlite
+*.out
+*.err
+
+# Virtual environments
+.venv
+.cursor
+.python-version
